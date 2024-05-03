@@ -1,0 +1,15 @@
+------------------JAVACRASHCOURSE---------------
+Committee Slots: 4
+Start Date: 2024-01-17
+End Date: 2024-01-20
+Closing Date: 2024-01-07
+Location: SWLab2
+Total Slots: 9
+Description: Java for Newbies
+Staff IC: Arvind 
+Open To: NTU
+Visibility: true
+Camp Committee members: 
+KOH 	ADM
+
+Camp Attendees: 

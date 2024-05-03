@@ -1,0 +1,19 @@
+------------------ECONTRAIL---------------
+Committee Slots: 9
+Start Date: 2023-12-20
+End Date: 2023-12-22
+Closing Date: 2023-11-12
+Location: Botanic Gardens
+Total Slots: 18
+Description: Nature and Us
+Staff IC: Arvind 
+Open To: NTU
+Visibility: true
+Camp Committee members: 
+KOH 	ADM
+BRANDON 	EEE
+ERNEST	EEE
+
+Camp Attendees: 
+CHERN 	SCSE
+RAWAL	SSS
